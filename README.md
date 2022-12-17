@@ -6,7 +6,6 @@
 
 
 
-![image](https://user-images.githubusercontent.com/105569840/208227831-a603634d-5932-4e86-96fd-101e6594feaa.png)
 
 
    
