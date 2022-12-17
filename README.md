@@ -1,11 +1,11 @@
-- 👋 Hi 👋 My name is Nadir 
+- Hi 👋 My name is Nadir 
 - Software Developer
 - 🧠 I'm currently learning TypeScript
 🤝 I'm open to collaborating on interesting projects
 ⚡ Other hobbies: Soccer  and Olympic Weightlifting 🏋🏼
-Skills
-JavaScript TypeScript HTML5 React CSS3 Bootstrap Material UI Firebase PostgreSQL MongoDB Express NodeJS
-Socials
+  -Skills
+     JavaScript TypeScript HTML5 React CSS3 Bootstrap Material UI Firebase PostgreSQL MongoDB Express NodeJS
+  - Socials
  Badges
 My GitHub Stats
 - 👀 I’m interested in ...
