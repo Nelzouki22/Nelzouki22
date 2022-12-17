@@ -1,6 +1,6 @@
 - Hi 👋 My name is Nadir 
 - Software Developer
-- 🧠 I'm currently learning TypeScript , NextJS / Python , Swift / Xcode
+- 🧠 I'm currently learning TypeScript/ NextJS / Python / Swift / Xcode
 - 🤝 I’m open to collaborate on interesting projects
 - 📫 How to reach me elzoukigroup2018@gmail.com 
 
@@ -11,6 +11,9 @@
 
 
 
+
+
+![image](https://user-images.githubusercontent.com/105569840/208227061-3df113ab-7d7a-4fff-b6e7-d8bea90985c2.png)
 
    
 <!---
