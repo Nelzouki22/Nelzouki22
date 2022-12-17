@@ -8,7 +8,7 @@
 
 
 
-![image](https://user-images.githubusercontent.com/105569840/208226234-1f461b3f-efbb-4db1-9171-6e5cd618dad1.png)     ![image](https://user-images.githubusercontent.com/105569840/208226259-65bbb7bf-ccef-411b-89f3-ff7cd300d5b0.png)   ![image](https://user-images.githubusercontent.com/105569840/208226344-d960ba0f-7344-4da5-9817-e08e0bcccd7f.png)   ![image](https://user-images.githubusercontent.com/105569840/208226365-09632bf9-4e60-46ae-b426-779c8c07c42d.png)  ![image](https://user-images.githubusercontent.com/105569840/208226470-ce6e0f2c-71b8-43a3-919c-16797564e91f.png)   ![image](https://user-images.githubusercontent.com/105569840/208226514-3e59820e-948e-4465-9417-2636a701fe46.png)
+![image](https://user-images.githubusercontent.com/105569840/208226234-1f461b3f-efbb-4db1-9171-6e5cd618dad1.svg)     ![image](https://user-images.githubusercontent.com/105569840/208226259-65bbb7bf-ccef-411b-89f3-ff7cd300d5b0.svg)   ![image](https://user-images.githubusercontent.com/105569840/208226344-d960ba0f-7344-4da5-9817-e08e0bcccd7f.svg)   ![image](https://user-images.githubusercontent.com/105569840/208226365-09632bf9-4e60-46ae-b426-779c8c07c42d.svg)  ![image](https://user-images.githubusercontent.com/105569840/208226470-ce6e0f2c-71b8-43a3-919c-16797564e91f.svg)   ![image](https://user-images.githubusercontent.com/105569840/208226514-3e59820e-948e-4465-9417-2636a701fe46.svg)
 
 
 
@@ -16,9 +16,6 @@
 
 
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
 
 
 
