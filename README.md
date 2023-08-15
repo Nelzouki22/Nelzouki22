@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm NADIR ELZOUKI</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center"> a full-time full-stack and software developerfreelance   👨‍💻 working remotely since 2021 🚀
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nelzouki22&label=Profile%20views&color=0e75b6&style=flat" alt="nelzouki22" /> </p>
 
