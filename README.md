@@ -13,30 +13,49 @@
   </a>
 </p>
 
-<!-- Socials and Contact -->
+<!-- Socials and Contact Section -->
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://github.com/Nelzouki22" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Nelzouki22-blue?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
-  </a>
   <a href="https://www.linkedin.com/in/nadir-elzouki-40679a1a9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Nadir%20Elzouki-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
+  <a href="https://www.youtube.com/@nadirelzouki4529" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Nadir%20Elzouki-red?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube" />
+  </a>
+  <a href="https://leetcode.com/u/elzoukigroup2018/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Nadir%20Elzouki-orange?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode" />
+  </a>
+  <a href="https://codepen.io/Nelzouki22" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-Nelzouki22-black?logo=codepen&logoColor=white&style=for-the-badge" alt="CodePen" />
+  </a>
+  <a href="https://stackoverflow.com/users/15811224/nadir-elzouki" target="_blank">
+    <img src="https://img.shields.io/badge/StackOverflow-Nadir%20Elzouki-orange?logo=stackoverflow&logoColor=white&style=for-the-badge" alt="Stack Overflow" />
+  </a>
+  <a href="https://www.codechef.com/users/zac_20201975" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-Nadir%20Elzouki-brown?logo=codechef&logoColor=white&style=for-the-badge" alt="CodeChef" />
+  </a>
+  <a href="https://www.kaggle.com/nadirelzouki" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Nadir%20Elzouki-blue?logo=kaggle&logoColor=white&style=for-the-badge" alt="Kaggle" />
+  </a>
+  <a href="https://codeforces.com/profile/elzoukigroup2018" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Nadir%20Elzouki-green?logo=codeforces&logoColor=white&style=for-the-badge" alt="Codeforces" />
+  </a>
+  <a href="https://profiles.topcoder.com/elzoukicoder" target="_blank">
+    <img src="https://img.shields.io/badge/TopCoder-Nadir%20Elzouki-blue?logo=topcoder&logoColor=white&style=for-the-badge" alt="TopCoder" />
+  </a>
+  <a href="https://www.codewars.com/users/Nelzouki22" target="_blank">
+    <img src="https://img.shields.io/badge/Codewars-Nelzouki22-maroon?logo=codewars&logoColor=white&style=for-the-badge" alt="Codewars" />
+  </a>
 </p>
 
-
-- 📫 How to reach me **elzoukigroup2018@gmail.com**
-- 📝 I regularly write articles on **https://www.blogger.com/blog/posts/6134043737437820566?hl=en&tab=jj**
-- ⚡ Fun fact **I Think I love Food and Scores**
-
-<div> <a href="https://twitter.com/@elzoukinadir1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="[https://www.linkedin.com/in/NADIR. A. ELZOUKI]"(https://www.linkedin.com/in/nadir-elzouki-40679a1a9/?profileId=ACoAADC0QsYBFUKy48Zd-9qCBPFJWsDyxOha1yo)](https://www.linkedin.com/in/nadir-elzouki-40679a1a9/?profileId=ACoAADC0QsYBFUKy48Zd-9qCBPFJWsDyxOha1yo)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-<a href="https://github.com/Nelzouki22" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/ nadirelzouki22" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:elzoukigroup2018@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codesandbox.com/nelzouki22" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codesandbox.svg" alt="nelzouki22" height="30" width="40" /></a><a href="https://twitter.com/@elzoukinadir1" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="@elzoukinadir1" height="30" width="40" /></a><a href="https://linkedin.com/in/NADIR. A. ELZOUKI" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="NADIR. A. ELZOUKI" height="30" width="40" /></a><a href="https://www.youtube.com/c/@nadirelzouki4529(https://www.youtube.com/@nadirelzouki4529)" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="@nadirelzouki4529" height="30" width="40" /></a><a href="https://www.leetcode.com/Nadir Elzouki" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="Nadir Elzouki" height="30" width="40" /></a><a href="https://codepen.io/@Nelzouki22" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codepen.svg" alt="@Nelzouki22" height="30" width="40" /></a><a href="https://stackoverflow.com/users/Nadir Elzouki" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="Nadir Elzouki" height="30" width="40" /></a><a href="https://kaggle.com/Nadir Elzouki" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="Nadir Elzouki" height="30" width="40" /></a><a href="https://instagram.com/ nadirelzouki22" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt=" nadirelzouki22" height="30" width="40" /></a><a href="https://codeforces.com/profile/elzoukigroup2018" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="elzoukigroup2018" height="30" width="40" /></a><a href="https://www.topcoder.com/members/NADIR ELZOUKI" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/topcoder.svg" alt="NADIR ELZOUKI" height="30" width="40" /></a><a href="https://www.codechef.com/users/Nadir Elzouki" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codechef.svg" alt="Nadir Elzouki" height="30" width="40" /></a></p>
+<!-- Additional Info -->
+<p align="center">
+  - 📫 How to reach me: <strong>elzoukigroup2018@gmail.com</strong>
+  <br/>
+  - 📝 I regularly write articles on <a href="https://www.blogger.com/blog/posts/6134043737437820566?hl=en&tab=jj">My Blog</a>
+  <br/>
+  - ⚡ Fun fact: I love food and enjoy problem-solving.
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
