@@ -1,9 +1,27 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, Hey there! I'm Nadir Elzouki</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nelzouki22&label=Profile%20views&color=0e75b6&style=flat" alt="Nelzouki22" /> </p>
+<!-- Profile Views -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Nelzouki22&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nelzouki22&theme=nord" alt="Nelzouki22" /></a> </p>
+<!-- GitHub Profile Trophy -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Nelzouki22&theme=nord&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<!-- Socials and Contact -->
+<p align="center">
+  <a href="https://github.com/Nelzouki22" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Nelzouki22-blue?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/nadir-elzouki-40679a1a9/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Nadir%20Elzouki-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+</p>
 
 
 - 📫 How to reach me **elzoukigroup2018@gmail.com**
