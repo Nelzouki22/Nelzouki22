@@ -26,19 +26,19 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
   </a>
   <a href="https://codepen.io/Nelzouki22" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Codepen_logo.png" alt="CodePen" width="40" height="40"/>
+    <img src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Fill-Black-Large.png" alt="CodePen" width="40" height="40"/>
   </a>
   <a href="https://stackoverflow.com/users/15811224/nadir-elzouki" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" alt="Stack Overflow" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Stack Overflow" width="40" height="40"/>
   </a>
   <a href="https://www.codechef.com/users/zac_20201975" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/CodeChef_Logo.png" alt="CodeChef" width="40" height="40"/>
+    <img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/cc-logo-large.svg" alt="CodeChef" width="40" height="40"/>
   </a>
   <a href="https://www.kaggle.com/nadirelzouki" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="40" height="40"/>
   </a>
   <a href="https://codeforces.com/profile/elzoukigroup2018" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Codeforces_logo.png" alt="Codeforces" width="40" height="40"/>
+    <img src="https://sta.codeforces.com/s/5/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="40" height="40"/>
   </a>
   <a href="https://profiles.topcoder.com/elzoukicoder" target="_blank">
     <img src="https://www.topcoder.com/wp-content/uploads/2020/05/topcoder-logo-horizontal-dark.png" alt="TopCoder" width="40" height="40"/>
