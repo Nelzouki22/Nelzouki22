@@ -119,7 +119,7 @@
 <p><a href="https://www.buymeacoffee.com/NADIR ELZOUKI"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="NADIR ELZOUKI" /></a></p><br><br>
 
 <!-- Stars Section -->
-<<!-- Top Languages Section -->
+<!-- Top Languages Section -->
 <h3 align="left">🌟 Top Languages</h3>
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelzouki22&langs_count=8&theme=dark&layout=compact" alt="Top Languages for Nelzouki22" />
@@ -131,6 +131,18 @@
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Nelzouki22&show_icons=true&locale=en&theme=dark" alt="GitHub Stats for Nelzouki22" />
   <img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nelzouki22&theme=dark" alt="GitHub Streak Stats for Nelzouki22" />
 </p>
+
+<!-- LeetCode Stats Section -->
+<h3 align="left">💻 LeetCode Stats</h3>
+<div align="left">
+  <img src="https://leetcode.card.workers.dev/Nadir%20Elzouki" height="180em" alt="LeetCode Stats for Nadir Elzouki" />
+</div>
+
+<!-- Codewars Stats Section -->
+<h3 align="left">💪 Codewars Stats</h3>
+<div align="left">
+  <img src="https://www.codewars.com/users/Nelzouki22/badges/large" alt="Codewars Stats for Nelzouki22" />
+</div>
 
 <!-- Statistics Section -->
 <h3 align="left">📈 Statistics</h3>
@@ -145,5 +157,9 @@
 <!-- Activity Graph Section -->
 <h2 align="left">⚡ Activity Graph</h2>
 <img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=Nelzouki22&theme=react" height="200em" />
+
+<!-- Decorative Line -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
 
 
