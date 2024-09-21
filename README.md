@@ -17,34 +17,34 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/nadir-elzouki-40679a1a9/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Nadir%20Elzouki-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://www.youtube.com/@nadirelzouki4529" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" alt="YouTube" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/YouTube-Nadir%20Elzouki-red?style=for-the-badge&logo=youtube" alt="YouTube" />
   </a>
   <a href="https://leetcode.com/u/elzoukigroup2018/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/LeetCode-Nadir%20Elzouki-yellow?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   </a>
   <a href="https://codepen.io/Nelzouki22" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" alt="CodePen" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/CodePen-Nadir%20Elzouki-black?style=for-the-badge&logo=codepen" alt="CodePen" />
   </a>
   <a href="https://stackoverflow.com/users/15811224/nadir-elzouki" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Stack%20Overflow-Nadir%20Elzouki-orange?style=for-the-badge&logo=stackoverflow" alt="Stack Overflow" />
   </a>
   <a href="https://www.codechef.com/users/zac_20201975" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Chef_icon.svg" alt="CodeChef" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/CodeChef-Nadir%20Elzouki-brown?style=for-the-badge&logo=codechef" alt="CodeChef" />
   </a>
   <a href="https://www.kaggle.com/nadirelzouki" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Kaggle-Nadir%20Elzouki-lightblue?style=for-the-badge&logo=kaggle" alt="Kaggle" />
   </a>
   <a href="https://codeforces.com/profile/elzoukigroup2018" target="_blank">
-    <img src="https://sta.codeforces.com/s/32213/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Codeforces-Nadir%20Elzouki-lightgrey?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   </a>
   <a href="https://profiles.topcoder.com/elzoukicoder" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/16910126?s=280&v=4" alt="TopCoder" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/TopCoder-Nadir%20Elzouki-lightgreen?style=for-the-badge&logo=topcoder" alt="TopCoder" />
   </a>
   <a href="https://www.codewars.com/users/Nelzouki22" target="_blank">
-    <img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="Codewars" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Codewars-Nadir%20Elzouki-red?style=for-the-badge&logo=codewars" alt="Codewars" />
   </a>
 </p>
 
