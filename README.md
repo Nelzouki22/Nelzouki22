@@ -64,8 +64,6 @@
   </a>
 </p>
 
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/apple_objectivec-icon.svg" alt="ObjectiveC" width="40" height="40"/>
@@ -131,9 +129,13 @@
 <p><a href="https://www.buymeacoffee.com/NADIR ELZOUKI"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="NADIR ELZOUKI" /></a></p><br><br>
 
 <!-- Stars Section -->
+<<!-- Top Languages Section -->
 <h3 align="left">🌟 Top Languages</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelzouki22&langs_count=8&theme=dark" alt="Top Languages for Nelzouki22" />
+<div style="display: flex; flex-direction: column; align-items: flex-start;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelzouki22&langs_count=8&theme=dark&layout=compact" alt="Top Languages for Nelzouki22" />
+</div>
 
+<!-- GitHub Stats Section -->
 <h3 align="left">📊 GitHub Stats</h3>
 <p>
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Nelzouki22&show_icons=true&locale=en&theme=dark" alt="GitHub Stats for Nelzouki22" />
@@ -153,6 +155,10 @@
 <!-- Activity Graph Section -->
 <h2 align="left">⚡ Activity Graph</h2>
 <img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=Nelzouki22&theme=react" height="200em" />
+
+<!-- Decorative Line -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
 
 <!-- Decorative Line -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
