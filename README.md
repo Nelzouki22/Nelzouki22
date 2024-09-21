@@ -143,6 +143,14 @@
 <div align="left">
   <img src="https://www.codewars.com/users/Nelzouki22/badges/large" alt="Codewars Stats for Nelzouki22" />
 </div>
+<!-- TryHackMe Section -->
+<h3 align="left">🛡️ TryHackMe Profile</h3>
+<div align="left">
+  <a href="https://tryhackme.com/p/nadirelzouki82" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-Profile-blue?logo=tryhackme&logoColor=white" alt="TryHackMe Profile" />
+  </a>
+  <p>Explore my TryHackMe profile for hands-on cybersecurity challenges!</p>
+</div>
 
 <!-- HackerRank Stats Section -->
 <h3 align="left">🏆 HackerRank Stats</h3>
