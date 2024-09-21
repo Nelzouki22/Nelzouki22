@@ -17,34 +17,34 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/nadir-elzouki-40679a1a9/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://i.imgur.com/kF0XYXV.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://www.youtube.com/@nadirelzouki4529" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="40" height="40"/>
+    <img src="https://i.imgur.com/lsCPWoc.png" alt="YouTube" width="40" height="40"/>
   </a>
   <a href="https://leetcode.com/u/elzoukigroup2018/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
+    <img src="https://i.imgur.com/7zQ7WMA.png" alt="LeetCode" width="40" height="40"/>
   </a>
   <a href="https://codepen.io/Nelzouki22" target="_blank">
-    <img src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Fill-Black-Large.png" alt="CodePen" width="40" height="40"/>
+    <img src="https://i.imgur.com/tWD5ATp.png" alt="CodePen" width="40" height="40"/>
   </a>
   <a href="https://stackoverflow.com/users/15811224/nadir-elzouki" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Stack Overflow" width="40" height="40"/>
+    <img src="https://i.imgur.com/p4vgdHH.png" alt="Stack Overflow" width="40" height="40"/>
   </a>
   <a href="https://www.codechef.com/users/zac_20201975" target="_blank">
-    <img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/cc-logo-large.svg" alt="CodeChef" width="40" height="40"/>
+    <img src="https://i.imgur.com/jkx0V7G.png" alt="CodeChef" width="40" height="40"/>
   </a>
   <a href="https://www.kaggle.com/nadirelzouki" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="40" height="40"/>
+    <img src="https://i.imgur.com/JO8mM8t.png" alt="Kaggle" width="40" height="40"/>
   </a>
   <a href="https://codeforces.com/profile/elzoukigroup2018" target="_blank">
-    <img src="https://sta.codeforces.com/s/5/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="40" height="40"/>
+    <img src="https://i.imgur.com/Jmqq5Im.png" alt="Codeforces" width="40" height="40"/>
   </a>
   <a href="https://profiles.topcoder.com/elzoukicoder" target="_blank">
-    <img src="https://www.topcoder.com/wp-content/uploads/2020/05/topcoder-logo-horizontal-dark.png" alt="TopCoder" width="40" height="40"/>
+    <img src="https://i.imgur.com/VISp0zv.png" alt="TopCoder" width="40" height="40"/>
   </a>
   <a href="https://www.codewars.com/users/Nelzouki22" target="_blank">
-    <img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="Codewars" width="40" height="40"/>
+    <img src="https://i.imgur.com/sF8gFzX.png" alt="Codewars" width="40" height="40"/>
   </a>
 </p>
 
@@ -56,6 +56,7 @@
   <br/>
   - ⚡ Fun fact: I love food and enjoy problem-solving.
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
