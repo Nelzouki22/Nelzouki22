@@ -80,12 +80,7 @@
 
 
 
-<!-- Additional Info -->
-<p align="left">
-  - 📝 I regularly write articles on <a href="https://www.blogger.com/blog/posts/6134043737437820566?hl=en&tab=jj" target="_blank">My Blog</a>
-  <br/>
-  - ⚡ I enjoy problem-solving and building innovative solutions.
-</p>
+
 
 
 
