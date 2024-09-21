@@ -51,20 +51,33 @@
 <!-- More About Me Section -->
 <h3 align="center">🚀 More about me</h3>
 <p align="center">
-  You have finally discovered my GitHub profile. Please feel free to clone/fork projects, raise issues, and submit PRs if you think something could be better. Ask me anything here or email me.
+  Welcome to my GitHub profile! 🎉
   <br/>
-  Happy Coding! 😊
+  Feel free to clone/fork projects, raise issues, and submit PRs if you think something could be better. Ask me anything here or email me. Happy Coding! 😊
+</p>
+<p align="center">
+  🌱 I’m currently a software engineer working as a freelancer, looking to collaborate on Open-Source Projects.
   <br/>
-  🌱 I’m currently a software engineer working as a freelancer. I'm looking to collaborate on Open-Source Projects. I work at Apple as a Technical Specialist and previously at Geek Squad as a Consultation Agent.
+  I'm currently working at Apple as a Technical Specialist and previously served as a Consultation Agent at Geek Squad.
   <br/>
-  I like to explore new technologies and develop software solutions and quick hacks.
-  <br/>
+  I love exploring new technologies and developing software solutions and quick hacks.
+</p>
+<p align="center">
   👨‍💻 Personal portfolio: <a href="https://nelzouki22.github.io" target="_blank">https://nelzouki22.github.io</a>
   <br/>
   📫 How to reach me: <strong>elzoukigroup2018@gmail.com</strong>
   <br/>
-  ⚡ Fun fact: I am deeply in love with Libya, Italy, Florida, and Iowa State, and I love food! ❤️
+  ⚡ Fun fact: I'm deeply in love with Libya, Italy, Florida, and Iowa State, and I have a passion for food! ❤️
 </p>
+
+<!-- Additional Info -->
+<h3 align="center">🔗 Additional Info</h3>
+<p align="center">
+  - 📝 I regularly write articles on <a href="https://www.blogger.com/blog/posts/6134043737437820566?hl=en&tab=jj" target="_blank">My Blog</a>
+  <br/>
+  - ⚡ I enjoy problem-solving and building innovative solutions.
+</p>
+
 
 <!-- Additional Info -->
 <p align="center">
