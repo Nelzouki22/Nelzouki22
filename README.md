@@ -115,8 +115,7 @@
 
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/NADIR ELZOUKI"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="NADIR ELZOUKI" /></a></p><br><br>
+
 
 <!-- Stars Section -->
 <!-- Top Languages Section -->
@@ -178,6 +177,13 @@
 
 <!-- Decorative Line -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<h3 align="left">Support:</h3>
+<div align="left">
+  <a href="https://www.buymeacoffee.com/elzoukigroL" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Support Nadir Elzouki" />
+  </a>
+</div>
+
 
 
 
