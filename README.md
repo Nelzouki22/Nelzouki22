@@ -17,34 +17,34 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/nadir-elzouki-40679a1a9/" target="_blank">
-    <img src="https://i.imgur.com/kF0XYXV.png" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://www.youtube.com/@nadirelzouki4529" target="_blank">
-    <img src="https://i.imgur.com/lsCPWoc.png" alt="YouTube" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" alt="YouTube" width="40" height="40"/>
   </a>
   <a href="https://leetcode.com/u/elzoukigroup2018/" target="_blank">
-    <img src="https://i.imgur.com/7zQ7WMA.png" alt="LeetCode" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
   </a>
   <a href="https://codepen.io/Nelzouki22" target="_blank">
-    <img src="https://i.imgur.com/tWD5ATp.png" alt="CodePen" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" alt="CodePen" width="40" height="40"/>
   </a>
   <a href="https://stackoverflow.com/users/15811224/nadir-elzouki" target="_blank">
-    <img src="https://i.imgur.com/p4vgdHH.png" alt="Stack Overflow" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" width="40" height="40"/>
   </a>
   <a href="https://www.codechef.com/users/zac_20201975" target="_blank">
-    <img src="https://i.imgur.com/jkx0V7G.png" alt="CodeChef" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Chef_icon.svg" alt="CodeChef" width="40" height="40"/>
   </a>
   <a href="https://www.kaggle.com/nadirelzouki" target="_blank">
-    <img src="https://i.imgur.com/JO8mM8t.png" alt="Kaggle" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="40" height="40"/>
   </a>
   <a href="https://codeforces.com/profile/elzoukigroup2018" target="_blank">
-    <img src="https://i.imgur.com/Jmqq5Im.png" alt="Codeforces" width="40" height="40"/>
+    <img src="https://sta.codeforces.com/s/32213/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="40" height="40"/>
   </a>
   <a href="https://profiles.topcoder.com/elzoukicoder" target="_blank">
-    <img src="https://i.imgur.com/VISp0zv.png" alt="TopCoder" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/16910126?s=280&v=4" alt="TopCoder" width="40" height="40"/>
   </a>
   <a href="https://www.codewars.com/users/Nelzouki22" target="_blank">
-    <img src="https://i.imgur.com/sF8gFzX.png" alt="Codewars" width="40" height="40"/>
+    <img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="Codewars" width="40" height="40"/>
   </a>
 </p>
 
