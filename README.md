@@ -144,6 +144,14 @@
   <img src="https://www.codewars.com/users/Nelzouki22/badges/large" alt="Codewars Stats for Nelzouki22" />
 </div>
 
+<!-- HackerRank Stats Section -->
+<h3 align="left">🏆 HackerRank Stats</h3>
+<div align="left">
+  <a href="https://www.hackerrank.com/profile/elzoukigroup2018" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-elzoukigroup2018-brightgreen?logo=hackerrank&logoColor=white" alt="HackerRank Profile" />
+  </a>
+</div>
+
 <!-- Statistics Section -->
 <h3 align="left">📈 Statistics</h3>
 <div align="left">
@@ -160,6 +168,7 @@
 
 <!-- Decorative Line -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
 
 
 
