@@ -17,34 +17,34 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/nadir-elzouki-40679a1a9/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Nadir%20Elzouki-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.youtube.com/@nadirelzouki4529" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Nadir%20Elzouki-red?style=for-the-badge&logo=youtube" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://leetcode.com/u/elzoukigroup2018/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Nadir%20Elzouki-yellow?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   <a href="https://codepen.io/Nelzouki22" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-Nadir%20Elzouki-black?style=for-the-badge&logo=codepen" alt="CodePen" />
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
   </a>
   <a href="https://stackoverflow.com/users/15811224/nadir-elzouki" target="_blank">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-Nadir%20Elzouki-orange?style=for-the-badge&logo=stackoverflow" alt="Stack Overflow" />
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
   </a>
   <a href="https://www.codechef.com/users/zac_20201975" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-Nadir%20Elzouki-brown?style=for-the-badge&logo=codechef" alt="CodeChef" />
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
   <a href="https://www.kaggle.com/nadirelzouki" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Nadir%20Elzouki-lightblue?style=for-the-badge&logo=kaggle" alt="Kaggle" />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
   <a href="https://codeforces.com/profile/elzoukigroup2018" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-Nadir%20Elzouki-lightgrey?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
   <a href="https://profiles.topcoder.com/elzoukicoder" target="_blank">
-    <img src="https://img.shields.io/badge/TopCoder-Nadir%20Elzouki-lightgreen?style=for-the-badge&logo=topcoder" alt="TopCoder" />
+    <img src="https://img.shields.io/badge/TopCoder-29A34B?style=for-the-badge&logo=topcoder&logoColor=white" alt="TopCoder" />
   </a>
   <a href="https://www.codewars.com/users/Nelzouki22" target="_blank">
-    <img src="https://img.shields.io/badge/Codewars-Nadir%20Elzouki-red?style=for-the-badge&logo=codewars" alt="Codewars" />
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars" />
   </a>
 </p>
 
