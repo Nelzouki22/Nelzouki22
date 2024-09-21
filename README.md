@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, Hey there! I'm Nadir Elzouki</h1>
 <!-- More About Me Section -->
-<!-- More About Me Section -->
 <h3>🚀 More about me</h3>
 <p style="text-align: left;">
   Welcome to my GitHub profile! 🎉
@@ -31,7 +30,7 @@
 </ul>
 <!-- Socials and Contact Section -->
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/nadir-elzouki-40679a1a9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -62,7 +61,11 @@
   <a href="https://www.codewars.com/users/Nelzouki22" target="_blank">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars" />
   </a>
+  <a href="https://tryhackme.com/p/nadirelzouki82" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-8C1F3D?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
