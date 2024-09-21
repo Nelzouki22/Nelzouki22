@@ -30,7 +30,7 @@
   <li>⚡ I enjoy problem-solving and building innovative solutions.</li>
 </ul>
 <!-- Socials and Contact Section -->
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/nadir-elzouki-40679a1a9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
