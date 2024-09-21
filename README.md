@@ -149,8 +149,11 @@
   <a href="https://tryhackme.com/p/nadirelzouki82" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-Profile-blue?logo=tryhackme&logoColor=white" alt="TryHackMe Profile" />
   </a>
+  <img src="[https://img.shields.io/badge/TryHackMe%20Level-YourLevel-brightgreen](https://img.shields.io/badge/TryHackMe%20Level-YourLevel-brightgreen
+)" alt="TryHackMe Level" />
   <p>Explore my TryHackMe profile for hands-on cybersecurity challenges!</p>
 </div>
+
 
 <!-- HackerRank Stats Section -->
 <h3 align="left">🏆 HackerRank Stats</h3>
