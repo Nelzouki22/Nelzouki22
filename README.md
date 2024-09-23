@@ -129,26 +129,20 @@
 
 <!-- GitHub Stats Section -->
 <h3 align="left">📊 GitHub Stats</h3>
-<div style="display: flex; flex-direction: column; align-items: flex-start;style="color: black;">
-<p>
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Nelzouki22&show_icons=true&locale=en&theme=dark" alt="GitHub Stats for Nelzouki22" />
-  <img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nelzouki22&theme=dark" alt="GitHub Streak Stats for Nelzouki22" />
+<div style="display: flex; flex-direction: column; align-items: flex-start;">
+  <p>
+    <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Nelzouki22&show_icons=true&locale=en&theme=dark" alt="GitHub Stats for Nelzouki22" />
+    <img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nelzouki22&theme=dark" alt="GitHub Streak Stats for Nelzouki22" />
   </p>
-
 </div>
-
-
-
-
-
 
 <!-- LeetCode Stats Section -->
 <h3 align="left">💻 LeetCode Stats</h3>
 <div align="left">
   <img src="https://leetcode.card.workers.dev/elzoukigroup2018" height="180em" alt="LeetCode Stats for Elzouki" />
   <p style="color: black;">Visit my LeetCode profile to view my coding challenges, solutions, and rankings!</p>
-
 </div>
+
 
 
 <!-- Codewars Stats Section -->
