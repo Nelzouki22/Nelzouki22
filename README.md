@@ -165,7 +165,9 @@
   <a href="https://www.hackerrank.com/profile/elzoukigroup2018" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-elzoukigroup2018-brightgreen?logo=hackerrank&logoColor=white" alt="HackerRank Profile" />
   </a>
+  <img src="https://clist.by/api/v1/hackerrank/logo/1/" alt="HackerRank Stats" />
 </div>
+
 
 <!-- Statistics Section -->
 <h3 align="left">📈 Statistics</h3>
