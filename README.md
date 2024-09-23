@@ -129,14 +129,15 @@
 
 <!-- GitHub Stats Section -->
 <h3 align="left">📊 GitHub Stats</h3>
+<p align="right" style="color: black;">
+  Explore my GitHub profile to see my contributions, projects, and ongoing collaborations!
+</p>
 <p>
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Nelzouki22&show_icons=true&locale=en&theme=dark" alt="GitHub Stats for Nelzouki22" />
   <img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nelzouki22&theme=dark" alt="GitHub Streak Stats for Nelzouki22" />
 </p>
 
-<p align="right" style="color: black>
-  Explore my GitHub profile to see my contributions, projects, and ongoing collaborations!
-</p>
+
 
 
 
