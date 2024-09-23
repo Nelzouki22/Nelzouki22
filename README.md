@@ -138,6 +138,17 @@
 
 <br> <!-- Line break added here -->
 
+<!-- GitHub Stats Section -->
+<h3 align="left">📊 GitHub Stats</h3>
+<div style="display: block; align-items: flex-start;">
+  <p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nelzouki22&show_icons=true&locale=en&theme=dark" alt="GitHub Stats for Nelzouki22" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nelzouki22&theme=dark" alt="GitHub Streak Stats for Nelzouki22" />
+  </p>
+</div>
+
+<br> <!-- Line break for spacing -->
+
 <!-- LeetCode Stats Section -->
 <h3 align="left">💻 LeetCode Stats</h3>
 <div align="left">
