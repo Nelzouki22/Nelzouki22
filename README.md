@@ -133,13 +133,15 @@
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Nelzouki22&show_icons=true&locale=en&theme=dark" alt="GitHub Stats for Nelzouki22" />
   <img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nelzouki22&theme=dark" alt="GitHub Streak Stats for Nelzouki22" />
 </p>
-
+<p align="left">
+  Explore my GitHub profile to see my contributions, projects, and ongoing collaborations!
+</p>
 
 <!-- LeetCode Stats Section -->
 <h3 align="left">💻 LeetCode Stats</h3>
 <div align="left">
   <img src="https://leetcode.card.workers.dev/elzoukigroup2018" height="180em" alt="LeetCode Stats for Elzouki" />
-  <p>Check out my LeetCode profile for my coding challenges and achievements!</p>
+  <p>Visit my LeetCode profile to view my coding challenges, solutions, and rankings!</p>
 </div>
 
 
