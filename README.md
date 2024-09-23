@@ -137,8 +137,9 @@
 <!-- LeetCode Stats Section -->
 <h3 align="left">💻 LeetCode Stats</h3>
 <div align="left">
-  <img src="[https://leetcode.card.workers.dev/Nadir%20Elzouki](https://leetcode.com/u/elzoukigroup2018/)" height="180em" alt="LeetCode Stats for Nadir Elzouki" />
+  <img src="https://leetcode.card.workers.dev/elzoukigroup2018" height="180em" alt="LeetCode Stats for Nadir Elzouki" />
 </div>
+
 
 <!-- Codewars Stats Section -->
 <h3 align="left">💪 Codewars Stats</h3>
