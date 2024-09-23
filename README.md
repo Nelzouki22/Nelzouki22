@@ -174,6 +174,16 @@
   <p>Explore my HackerRank profile for coding challenges and competitions!</p>
 </div>
 
+<!-- HackerEarth Stats Section -->
+<h3 align="left">🌍 HackerEarth Stats</h3>
+<div align="left">
+  <a href="https://www.hackerearth.com/@elzoukigroup2018/" target="_blank">
+    <img src="https://img.shields.io/badge/HackerEarth-elzoukigroup2018-brightgreen?logo=hackerearth&logoColor=white" alt="HackerEarth Profile" />
+  </a>
+  <p style="color: black;">Check out my HackerEarth profile for my coding challenges and achievements!</p>
+</div>
+
+
 
 <!-- Statistics Section -->
 <h3 align="left">📈 Statistics</h3>
