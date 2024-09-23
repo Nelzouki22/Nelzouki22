@@ -153,7 +153,9 @@
     <img src="https://img.shields.io/badge/TryHackMe-Profile-blue?logo=tryhackme&logoColor=white" alt="TryHackMe Profile" />
   </a>
   <p>Explore my TryHackMe profile for hands-on cybersecurity challenges!</p>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/nadirelzouki82.png" alt="TryHackMe Stats" />
 </div>
+
 
 
 
