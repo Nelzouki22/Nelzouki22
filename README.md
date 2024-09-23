@@ -136,12 +136,15 @@
   </p>
 </div>
 
+<br> <!-- Line break added here -->
+
 <!-- LeetCode Stats Section -->
 <h3 align="left">💻 LeetCode Stats</h3>
 <div align="left">
   <img src="https://leetcode.card.workers.dev/elzoukigroup2018" height="180em" alt="LeetCode Stats for Elzouki" />
   <p style="color: black;">Visit my LeetCode profile to view my coding challenges, solutions, and rankings!</p>
 </div>
+
 
 
 
