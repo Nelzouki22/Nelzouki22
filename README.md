@@ -133,9 +133,10 @@
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Nelzouki22&show_icons=true&locale=en&theme=dark" alt="GitHub Stats for Nelzouki22" />
   <img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nelzouki22&theme=dark" alt="GitHub Streak Stats for Nelzouki22" />
 </p>
-<p align="left">
+<p align="left" style="color: black;">
   Explore my GitHub profile to see my contributions, projects, and ongoing collaborations!
 </p>
+
 
 <!-- LeetCode Stats Section -->
 <h3 align="left">💻 LeetCode Stats</h3>
