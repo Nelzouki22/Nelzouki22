@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, Hey there! I'm Nadir Elzouki</h1>
 <!-- More About Me Section -->
 <h3>🚀 More about me</h3>
