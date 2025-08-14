@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nadir Elzouki</h1>
 <p align="center">
-   Software Engineer (Apple/Swift) • Apple Technical Specialist • Ex Geek Squad
+   Software Engineer  • Apple Technical Specialist • Ex Geek Squad
 </p>
 
 <p align="center">
