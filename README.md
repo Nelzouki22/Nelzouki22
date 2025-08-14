@@ -55,6 +55,16 @@
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nelzouki22&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelzouki22&langs_count=8&theme=dark&layout=compact" alt="Top Languages" />
+  ---
+
+### 🛡️ TryHackMe
+<p>
+  <a href="https://tryhackme.com/p/elzoukigroup2018" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/elzoukigroup2018.png" alt="TryHackMe Badge" />
+  </a>
+</p>
+
+---
 </div>
 
 
