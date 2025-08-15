@@ -56,6 +56,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nelzouki22&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelzouki22&langs_count=8&theme=dark&layout=compact" alt="Top Languages" />
   ---
+<img src="https://tryhackme-badges.s3.amazonaws.com/NadirElzouki.png" alt="Your Image Badge" />
 
 
 </div>
