@@ -57,11 +57,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelzouki22&langs_count=8&theme=dark&layout=compact" alt="Top Languages" />
   ---
 
-### 🛡️ TryHackMe
-[<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3055384" style='border:none;'></iframe>
 
-
----](https://tryhackme.com/p/NadirElzouki)
 </div>
 
 
