@@ -58,10 +58,10 @@
   ---
 
 ### 🛡️ TryHackMe
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3055384" style='border:none;'></iframe>
+[<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3055384" style='border:none;'></iframe>
 
 
----
+---](https://tryhackme.com/p/NadirElzouki)
 </div>
 
 
