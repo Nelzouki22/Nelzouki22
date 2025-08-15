@@ -59,9 +59,8 @@
 
 ### 🛡️ TryHackMe
 <p>
-  <a href="https://tryhackme.com/p/elzoukigroup2018" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/elzoukigroup2018.png" alt="TryHackMe Badge" />
-  </a>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/NadirElzouki.png" alt="Your Image Badge" />
+
 </p>
 
 ---
